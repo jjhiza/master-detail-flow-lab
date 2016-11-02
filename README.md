@@ -48,8 +48,8 @@ If you work with a partner, please put both names in your pull request title.
 
 ## Additional Resources
 
-- [Activities and Intents](http://developer.android.com/guide/components/intents-filters.html)
-- [SQLite Database Documentation](http://developer.android.com/reference/android/database/sqlite/SQLiteDatabase.html)
+- [Master/Detail Flow](https://developer.android.com/training/implementing-navigation/descendant.html#master-detail)
+- [Supporting Tablets & Multi-Pane Layouts](https://developer.android.com/guide/practices/tablets-and-handsets.html#Fragments)
 
 ---
 
