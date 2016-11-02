@@ -46,6 +46,10 @@ The [starter code](starter-code) contains the the solution code to the Detail Vi
 A working app that implements the Master/Detail Flow pattern for the grocery list.
 If you work with a partner, please put both names in your pull request title.
 
+Here is a sample screenshot of the app with master/detail flow and the ability to check off items in the detail fragment, causing the item to be crossed out in the list:
+
+![](screenshots/screen1.png)
+
 ## Additional Resources
 
 - [Master/Detail Flow](https://developer.android.com/training/implementing-navigation/descendant.html#master-detail)
